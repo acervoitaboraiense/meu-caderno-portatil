@@ -8,8 +8,8 @@ include $(DEVKITARM)/ds_rules
 
 TARGET := meu-caderno-portatil
 BUILD := build
-SOURCES := gfx source data
-INCLUDES := include build
+SOURCES := source
+INCLUDES := include
 
 ARCH := -march=armv5te -mtune=arm946e-s -mthumb
 CFLAGS := -g -Wall -O2 -ffunction-sections -fdata-sections $(ARCH)
@@ -51,11 +51,11 @@ export LIBPATHS := $(foreach dir,$(LIBDIRS),-L$(dir)/lib)
 .PHONY: $(BUILD) clean
 
 $(BUILD):
-@[ -d $@ ] || mkdir -p $@
-@$(MAKE) --no-print-directory -C $(BUILD) -f $(CURDIR)/Makefile
+	@[ -d $@ ] || mkdir -p $@
+	@$(MAKE) --no-print-directory -C $(BUILD) -f $(CURDIR)/Makefile
 
 clean:
-@echo clean ...
-@rm -fr $(BUILD) $(TARGET).elf $(TARGET).nds
+	@echo clean ...
+	@rm -fr $(BUILD) $(TARGET).elf $(TARGET).nds
 
 endif
