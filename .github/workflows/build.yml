@@ -15,6 +15,11 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: Update package list and install calico
+      run: |
+        apt-get update
+        apt-get install -y calico
+
     - name: Build
       run: make
 
