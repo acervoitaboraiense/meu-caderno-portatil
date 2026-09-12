@@ -1,7 +1,5 @@
 # Meu Caderno Portátil
 
----
-
 ## Sobre o Projeto
 
 **Meu Caderno Portátil** é um aplicativo homebrew para console portátil de duas telas (2004) que transforma suas anotações escolares em uma experiência interativa de estudo. Com ele, você pode:
