@@ -56,7 +56,7 @@ O código-fonte está disponível neste repositório sob a licença MIT. Sinta-s
 
 1. Clone o repositório e acesse a pasta:
    ```bash
-   git clone https://github.com/acervopedrabonita/meu-caderno-portatil.git
+   git clone https://github.com/memoriaitaboraiense/meu-caderno-portatil.git
    cd meu-caderno-portatil
    ```
 
@@ -69,15 +69,11 @@ O código-fonte está disponível neste repositório sob a licença MIT. Sinta-s
 
 O arquivo `meu-caderno-portatil.nds` será gerado diretamente na raiz do projeto.
 
-### Compilação automática no GitHub Actions
-
-Este repositório está configurado com um workflow do GitHub Actions que compila o projeto automaticamente a cada `push` na branch `main`. Os artefatos (arquivos `.nds`) podem ser baixados diretamente na aba **"Actions"** do repositório.
-
 ---
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT, permitindo uso, modificação e distribuição livre, desde que os devidos créditos sejam dados à **Acervo Pedra Bonita**.
+Este projeto é distribuído sob a licença MIT, permitindo uso, modificação e distribuição livre, desde que os devidos créditos sejam dados à **Memória Itaboraiense**.
 
 ---
 
