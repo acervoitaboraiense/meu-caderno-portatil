@@ -73,12 +73,4 @@ O arquivo `meu-caderno-portatil.nds` será gerado diretamente na raiz do projeto
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT, permitindo uso, modificação e distribuição livre, desde que os devidos créditos sejam dados à **Memória Itaboraiense**.
-
----
-
-## Agradecimentos
-
-- À comunidade de homebrew que mantém viva a cena de desenvolvimento para este console.
-- Aos professores e estudantes que inspiram projetos educacionais como este.
-- Ao devkitPro e seus mantenedores, por fornecerem as ferramentas essenciais.
+Este projeto é distribuído sob a licença MIT, permitindo uso, modificação e distribuição livre, desde que os devidos créditos sejam dados à equipe do **Acervo Itaboraiense**.
