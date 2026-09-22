@@ -56,7 +56,7 @@ O código-fonte está disponível neste repositório sob a licença MIT. Sinta-s
 
 1. Clone o repositório e acesse a pasta:
    ```bash
-   git clone https://github.com/memoriaitaboraiense/meu-caderno-portatil.git
+   git clone https://github.com/acervoitaboraiense/meu-caderno-portatil.git
    cd meu-caderno-portatil
    ```
 
