@@ -36,7 +36,7 @@
 ## Plataforma
 
 - **Console:** Portátil de duas telas (modelo de 2004) e compatíveis (via flashcart ou homebrew channel)
-- **Emuladores:** DeSmuME, melonDS, Drastic (Android)
+- **Emuladores:** DeSmuME, melonDS, DraStic (Android)
 - **Linguagem:** C/C++ com devkitPro e libnds
 - **Armazenamento:** Arquivos de texto com as matérias no cartão SD (via libfat)
 
